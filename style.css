@@ -1,0 +1,89 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.container1{
+    width: 900px;
+    height: 800px;
+    margin: 4px auto;
+    border: 4px double black;
+    background-color: cadetblue;
+    min-height: 400px;
+    
+}
+
+
+.container2{
+ width: 70%;
+    height: 100%;
+    margin: 0 auto; 
+      
+}
+
+
+
+.fb{
+    width: 100px;
+    height: 100px;
+    margin-left: 450px;
+    margin-top: 20px;
+}
+
+
+
+
+ul>li{
+    display: inline;
+    
+}
+
+
+
+
+.dubai{
+ width: 625px;
+ height: 300px;   
+ margin-top: 5px;
+}
+
+
+
+.last{
+    width: 70%;
+    height: 100px;
+    border: 4px double black;
+    margin: 0 auto;
+}
+
+
+
+
+.border{
+    border-bottom: 1px solid black;
+    border-top: 4px double black;
+ }
+
+
+
+h1{
+    size: 110px;
+    text-align: center;
+}
+
+
+
+a:hover{
+    background-color: black;
+        
+}
+
+
+
+a{
+ text-decoration: none;
+ color: wheat;  
+ padding: 20px; 
+}
